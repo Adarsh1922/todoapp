@@ -11,3 +11,7 @@ A simple Todo application built with Spring Boot and Thymeleaf.
 - Java
 - Spring Boot
 - Thymeleaf
+
+## App Preview
+
+![Todo App UI](Screenshot.png)
